@@ -1,3 +1,4 @@
+// Program asks user for name and prints greeting
 #include <iostream>
 #include <string>
 
